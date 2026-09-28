@@ -58,11 +58,5 @@ Each document must use these fields:
 8. Confirm `count` is 6.
 9. Stop MongoDB and restart the server to capture the connection error.
 
-## Suggested screenshot names
-Save screenshots in `screenshots/`:
-- `01-compass-5-documents.png`
-- `02-server-running.png`
-- `03-get-employees-count-5.png`
-- `04-compass-6-documents.png`
-- `05-get-employees-count-6.png`
-- `06-mongodb-error.png`
+
+ ( added report  including screen shot )

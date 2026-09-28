@@ -1,0 +1,13 @@
+{
+  "name": "q4-mongo-employees",
+  "version": "1.0.0",
+  "description": "Employee API with MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
